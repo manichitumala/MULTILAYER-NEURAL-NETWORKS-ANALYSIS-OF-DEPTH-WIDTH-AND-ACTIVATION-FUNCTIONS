@@ -126,27 +126,13 @@ These measures ensure the tutorial is usable by a wide audience.
 
 ---
 
-## Repository Structure
-
-```
-mlp-depth-width-analysis/
-│
-├── mlp_experiment_explained.ipynb   # Main tutorial notebook
-├── mlp_experiment_final.py          # Script version of experiment
-├── README.md                        # Project documentation
-├── requirements.txt                # Dependencies
-└── LICENSE                         # Usage permissions
-```
-
----
-
 ## How to Run
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mlp-depth-width-analysis.git
-cd mlp-depth-width-analysis
+https://github.com/manichitumala/MULTILAYER-NEURAL-NETWORKS-ANALYSIS-OF-DEPTH-WIDTH-AND-ACTIVATION-FUNCTIONS.git
+cd MULTILAYER-NEURAL-NETWORKS-ANALYSIS-OF-DEPTH-WIDTH-AND-ACTIVATION-FUNCTIONS
 ```
 
 ### 2. Install dependencies
@@ -158,7 +144,7 @@ pip install -r requirements.txt
 ### 3. Run the notebook
 
 ```bash
-jupyter notebook mlp_experiment_explained.ipynb
+jupyter notebook MULTILAYER NEURAL NETWORKS ANALYSIS OF DEPTH, WIDTH AND ACTIVATION FUNCTIONS.ipynb
 ```
 
 ---
@@ -205,7 +191,6 @@ Responsible model design requires:
 * Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*
 * Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*
 * Nielsen, M. A. (2015). *Neural Networks and Deep Learning*
-* Stanford CS231n: Convolutional Neural Networks
 
 ---
 
